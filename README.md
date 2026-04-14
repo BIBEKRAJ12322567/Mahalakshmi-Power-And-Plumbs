@@ -116,6 +116,6 @@ The system integrates with **Resend** for reliable email delivery.
 
 ## 📞 Contact
 
-**Govind Malav** - [GitHub Profile](https://github.com/Govind-Malav)
+**Bibekraj Tripathy** - [GitHub Profile](https://github.com/BIBEKRAJ12322567)
 
 Project Link: [https://github.com/Govind-Malav/Mahalakshmi-Power-and-Plumbs](https://github.com/Govind-Malav/Mahalakshmi-Power-and-Plumbs)
