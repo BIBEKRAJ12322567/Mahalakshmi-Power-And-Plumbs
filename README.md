@@ -118,4 +118,4 @@ The system integrates with **Resend** for reliable email delivery.
 
 **Bibekraj Tripathy** - [GitHub Profile](https://github.com/BIBEKRAJ12322567)
 
-Project Link: [https://github.com/Govind-Malav/Mahalakshmi-Power-and-Plumbs](https://github.com/Govind-Malav/Mahalakshmi-Power-and-Plumbs)
+Project Link: [https://github.com/BIBEKRAJ12322567/Mahalakshmi-Power-And-Plumbs](https://github.com/BIBEKRAJ12322567/Mahalakshmi-Power-And-Plumbs)
